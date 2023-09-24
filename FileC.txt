@@ -1,3 +1,5 @@
 Moskow
 Amsterdam
 Berlin
+Paris
+Oslo
